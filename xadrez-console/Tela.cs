@@ -15,6 +15,7 @@ namespace xadrez_console
 					{
                         Console.Write("- ");
                     }
+
 					else
 					{
                         imprimirPeca(tab.peca(i,j));
