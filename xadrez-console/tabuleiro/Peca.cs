@@ -22,9 +22,7 @@ namespace tabuleiro
 			qteMovimentos++;
 		}
 
-		public abstract bool[,] movimentosPossiveis()
-		{
-
-		}
+		public abstract bool[,] movimentosPossiveis();
+		
 	}
 }
