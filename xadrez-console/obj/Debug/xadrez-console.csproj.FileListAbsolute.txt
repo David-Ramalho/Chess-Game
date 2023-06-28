@@ -1,0 +1,7 @@
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\obj\Debug\xadrez-console.csproj.AssemblyReference.cache
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\obj\Debug\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\David\Documents\GIT\Chess Game\xadrez-console\obj\Debug\xadrez-console.pdb
